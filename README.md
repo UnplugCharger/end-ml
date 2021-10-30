@@ -1,2 +1,2 @@
-# end-ml
-Model to production in Kubernetes
+# Machine Learning Prediction in Real-Time Using Docker, Python Rest APIs With Flask and Kubernetes: Online Inference
+
